@@ -75,6 +75,13 @@ git checkout <branche>
 
 Marche aussi avec les versions (TAG).
 
+## git fetch
+
+permet de visualiser les changements
+```bash
+git fetch <REMOTE>
+```
+
 ## fichier .gitignore
 
 Ce fichier permet de spécifier l'ensemble des fichiers (ou type de fichier) qui ne seront jamais indexés et de les ignorer.
